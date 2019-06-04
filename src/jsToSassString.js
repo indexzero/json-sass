@@ -1,6 +1,6 @@
 'use strict';
 
-import isPlainObject from 'lodash-node/modern/objects/isPlainObject';
+import isPlainObject from 'lodash.isplainobject';
 let { isArray } = Array;
 
 function jsToSassString(value) {
